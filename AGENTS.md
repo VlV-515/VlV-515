@@ -39,8 +39,8 @@ No existen (ni deben existir) carpetas de codigo fuente, dependencias ni archivo
 3. Stack principal (skillicons.dev)
 4. Testing y calidad (jest, playwright, vitest, badges)
 5. Valor que aporto (impacto tecnico + enfoque actual)
-6. IA y developer tooling
-7. Proyectos destacados
+6. IA aplicada y AI engineering
+7. Proyectos (lista unica, sin duplicar entre "open source" y "destacados")
 8. Contacto
 
 ## Que NO hacer
