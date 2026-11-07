@@ -10,8 +10,9 @@ No es un proyecto de codigo. Es un documento de identidad tecnica y profesional.
 ## Sobre el desarrollador
 
 - **Nombre:** Jorge Ignacio Tirado
-- **Rol:** Senior Frontend Developer
-- **Especializacion:** Angular, TypeScript, Arquitectura SPA, IA aplicada
+- **Rol:** Fullstack Developer
+- **Especialización:** Angular, TypeScript, Go, Arquitectura SPA, IA aplicada
+- **Backend:** Go (principal); Python, Node.js, PHP y Java como experiencia adicional
 - **Experiencia:** 10+ años en ERP, SCM, e-commerce y mobile-first
 - **Ubicacion:** Mexico
 
@@ -26,7 +27,9 @@ No existen (ni deben existir) carpetas de codigo fuente, dependencias ni archivo
 
 ## Convenciones de edicion
 
-- **Sin tildes ni caracteres especiales** en el texto (estilo ya establecido en el README)
+- **Español es-MX con ortografía correcta** (tildes y ñ); el README ya las usa
+- **Kore (empleador):** solo "backend en Go"; sin arquitectura, nombres internos ni endpoints
+- **README corto:** titular, stack, foco actual, proyectos destacados, contacto; sugerir 2-4 repos fijados
 - **Iconos de tecnologias:** usar `skillicons.dev` — ejemplo: `https://skillicons.dev/icons?i=angular,ts,jest`
 - **Badges informativos:** usar `shields.io` — ejemplo: `https://img.shields.io/badge/Label-color?style=flat&logo=X`
 - **Formato HTML inline** para centrado y agrupacion (`<p align="center">`, `<p>`)
